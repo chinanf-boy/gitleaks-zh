@@ -6,8 +6,6 @@
 [source]: https://github.com/chinanf-boy/Source-Explain
 [translate-svg]: http://llever.com/translate.svg
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list
-[size-img]: https://packagephobia.now.sh/badge?p=Name
-[size]: https://packagephobia.now.sh/result?p=Name
 
 「 审核git存储库的密码 」
 
@@ -30,6 +28,8 @@
 [commit]: https://github.com/zricethezav/gitleaks/tree/03c53d297840ee6f6b7f82f1c94a2df8aa0d528c
 
 <!-- doc-templite END generated -->
+
+- [ ] [维基百科页面](https://github.com/chinanf-boy/gitleaks.wiki-zh)
 
 ### 贡献
 
