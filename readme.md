@@ -19,17 +19,16 @@
 <!-- repo = 'zricethezav/gitleaks' -->
 <!-- commit = '03c53d297840ee6f6b7f82f1c94a2df8aa0d528c' -->
 <!-- time = '2018-10-27' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-10-27 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-10-27 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/zricethezav/gitleaks.svg
 [commit]: https://github.com/zricethezav/gitleaks/tree/03c53d297840ee6f6b7f82f1c94a2df8aa0d528c
 
 <!-- doc-templite END generated -->
 
-- [ ] [维基百科页面](https://github.com/chinanf-boy/gitleaks.wiki-zh)
+- [x] [维基百科页面-有关Gitleaks的几个使用示例](https://github.com/chinanf-boy/gitleaks.wiki-zh)
 
 ### 贡献
 
@@ -153,7 +152,7 @@ Gitleaks提供一致的现有代码,以协助自动化工作流程,如CICD平台
 
 #### 附加信息
 
--   有关gitleaks函数如何如何，可在其[维基页面](https://github.com/zricethezav/gitleaks/wiki)上找到
+-   有关gitleaks函数如何如何，可在其[维基页面](https://github.com/chinanf-boy/gitleaks.wiki-zh)上找到
 -   以下链接详细介绍了，在git repos中修复不需要的数据的各种方法
     -   [从存储库中删除敏感数据(github.com)](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
     -   [从提交历史记录中删除敏感文件(atlassian.com)](https://community.atlassian.com/t5/Bitbucket-questions/Remove-sensitive-files-from-commit-history/qaq-p/243807)
